@@ -2,7 +2,7 @@
 
 ## 소개
 
-<img src="https://github.com/GrooshBene/CV_Repository/blob/master/img/aboutme_profile.jpg" width="138" height=212"/>
+![alt text](https://github.com/GrooshBene/CV_Repository/blob/master/img/aboutme_profile.jpg)
 
 - 이름 : 박지수
 - E-Mail : grooshbene@gmail.com
